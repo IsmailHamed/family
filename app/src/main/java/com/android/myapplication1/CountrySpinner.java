@@ -13,7 +13,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.TreeMap;
 
-/* A class for initializing a spinner with country names list, setting the default country
+/* A class for initializing a  spinner with country names list, setting the default country
    as the first in the list, and providing the country 2-digit ISO code on selection.
 * */
 public class CountrySpinner extends Spinner {
